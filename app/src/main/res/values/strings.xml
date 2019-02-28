@@ -2,7 +2,7 @@
     <string name="app_name">onNumara</string>
     <string name="tahminet">TAHMİN ET</string>
     <string name="textview">10 Numara Tahmin</string>
-    <string name="sonuclar">Tahmin Sonuçları</string>
+    <string name="sonuclar">Tahmin Sonuçları:</string>
     <string name="sonucyazdir">iew</string>
 
 </resources>
